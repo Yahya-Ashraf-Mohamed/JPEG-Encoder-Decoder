@@ -3,11 +3,11 @@ Project done during **Information Theory and Coding course @Zewail City**. It ai
 
 ## How to Run?
 * Download the project files.
-* Run the JPEG.MLX Matlab Live Script.
+* Run the JPEG.mlx Matlab Live Script.
 
 ## Files
 All of the following files are programs written in Matlab:
 
 | Filename | Description |
 | -------- | ----------- |
-| `JPEG.MLX` | Matlab Live Script main file |
+| `JPEG.mlx` | Matlab Live Script main file |
