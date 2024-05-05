@@ -1,0 +1,9 @@
+function vector = pre_entropy_encoding(Blocks)
+    vector = [];
+    vector = [size(Blocks, 1) -1 size(Blocks, 2) -1];
+    for i = 1:size(Blocks, 1)
+        for j = 1:size(Blocks, 2)
+            vector = [vector Block];
+        end
+    end
+end
